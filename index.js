@@ -14,7 +14,7 @@ const userSchema = new mongoose.Schema({
 
 const User = mongoose.model("User", userSchema)
 
-const bot = new Telegraf("8309393557:AAEaSG-0nD-RRQIUYrQgbUIaJ4_QjzUexyE")
+const bot = new Telegraf("8402639093:AAGxpnza-PaeU5vHyATADgkmTLBMytnyYzE")
 
 const chanell = "@javohirhawkchannel"
 
